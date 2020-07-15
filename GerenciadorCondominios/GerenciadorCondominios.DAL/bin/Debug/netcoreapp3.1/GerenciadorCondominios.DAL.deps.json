@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "GerenciadorCondominios.BLL/1.0.0": {
+      "GerenciadorCondominios.DAL/1.0.0": {
         "dependencies": {
-          "Microsoft.Extensions.Identity.Stores": "3.1.5"
+          "GerenciadorCondominios.BLL": "1.0.0"
         },
         "runtime": {
-          "GerenciadorCondominios.BLL.dll": {}
+          "GerenciadorCondominios.DAL.dll": {}
         }
       },
       "Microsoft.AspNetCore.Cryptography.Internal/3.1.5": {
@@ -163,11 +163,19 @@
             "fileVersion": "3.100.520.27009"
           }
         }
+      },
+      "GerenciadorCondominios.BLL/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Identity.Stores": "3.1.5"
+        },
+        "runtime": {
+          "GerenciadorCondominios.BLL.dll": {}
+        }
       }
     }
   },
   "libraries": {
-    "GerenciadorCondominios.BLL/1.0.0": {
+    "GerenciadorCondominios.DAL/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -269,6 +277,11 @@
       "sha512": "sha512-6bLdjSAQix82oP2tsuX9MM2yjgUFFOkSZYyRSKoUULilw2cg0Y0H+dnugwYlfj8Jd7yjd/+QSdNBqEyYhTYv0w==",
       "path": "microsoft.extensions.primitives/3.1.5",
       "hashPath": "microsoft.extensions.primitives.3.1.5.nupkg.sha512"
+    },
+    "GerenciadorCondominios.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }
