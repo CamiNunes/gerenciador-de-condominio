@@ -1,8 +1,0 @@
-R:\Linguagens\.NetCore\gerenciador-de-condominio\GerenciadorCondominios\GerenciadorCondominios.BLL\bin\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.deps.json
-R:\Linguagens\.NetCore\gerenciador-de-condominio\GerenciadorCondominios\GerenciadorCondominios.BLL\bin\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.dll
-R:\Linguagens\.NetCore\gerenciador-de-condominio\GerenciadorCondominios\GerenciadorCondominios.BLL\bin\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.pdb
-R:\Linguagens\.NetCore\gerenciador-de-condominio\GerenciadorCondominios\GerenciadorCondominios.BLL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.csprojAssemblyReference.cache
-R:\Linguagens\.NetCore\gerenciador-de-condominio\GerenciadorCondominios\GerenciadorCondominios.BLL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.AssemblyInfoInputs.cache
-R:\Linguagens\.NetCore\gerenciador-de-condominio\GerenciadorCondominios\GerenciadorCondominios.BLL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.AssemblyInfo.cs
-R:\Linguagens\.NetCore\gerenciador-de-condominio\GerenciadorCondominios\GerenciadorCondominios.BLL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.dll
-R:\Linguagens\.NetCore\gerenciador-de-condominio\GerenciadorCondominios\GerenciadorCondominios.BLL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.pdb
