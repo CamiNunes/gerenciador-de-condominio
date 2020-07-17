@@ -6,7 +6,7 @@ namespace GerenciadorCondominios.BLL.Models
 {
     public class Mes
     {
-        public int MedId { get; set; }
+        public int MesId { get; set; }
         public string Nome { get; set; }
 
         public virtual ICollection<Aluguel> Alugueis { get; set; }

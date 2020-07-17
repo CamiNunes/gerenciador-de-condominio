@@ -1,8 +1,0 @@
-R:\Linguagens\.NetCore\gerenciador-de-condominio\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.csprojAssemblyReference.cache
-R:\Linguagens\.NetCore\gerenciador-de-condominio\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\staticwebassets\GerenciadorCondominios.StaticWebAssets.Manifest.cache
-R:\Linguagens\.NetCore\gerenciador-de-condominio\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\staticwebassets\GerenciadorCondominios.StaticWebAssets.xml
-R:\Linguagens\.NetCore\gerenciador-de-condominio\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.MvcApplicationPartsAssemblyInfo.cache
-R:\Linguagens\.NetCore\gerenciador-de-condominio\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.RazorAssemblyInfo.cache
-R:\Linguagens\.NetCore\gerenciador-de-condominio\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.RazorAssemblyInfo.cs
-R:\Linguagens\.NetCore\gerenciador-de-condominio\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.AssemblyInfoInputs.cache
-R:\Linguagens\.NetCore\gerenciador-de-condominio\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.AssemblyInfo.cs
