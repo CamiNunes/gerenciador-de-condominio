@@ -1,0 +1,1 @@
+R:\Linguagens\.NetCore\gerenciador-de-condominio\GerenciadorCondominios\GerenciadorCondominios\obj\Debug\netcoreapp3.1\GerenciadorCondominios.csprojAssemblyReference.cache

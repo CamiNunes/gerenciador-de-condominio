@@ -1,0 +1,3 @@
+R:\Linguagens\.NetCore\gerenciador-de-condominio\GerenciadorCondominios\GerenciadorCondominios.DAL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.csprojAssemblyReference.cache
+R:\Linguagens\.NetCore\gerenciador-de-condominio\GerenciadorCondominios\GerenciadorCondominios.DAL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.AssemblyInfoInputs.cache
+R:\Linguagens\.NetCore\gerenciador-de-condominio\GerenciadorCondominios\GerenciadorCondominios.DAL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.AssemblyInfo.cs

@@ -21,7 +21,6 @@ namespace GerenciadorCondominios.DAL.Mapeamentos
             builder.HasMany(u => u.ProprietariosApartamentos).WithOne(u => u.Proprietario);
             builder.HasMany(u => u.MoradoresApartamentos).WithOne(u => u.Morador);
             builder.HasMany(u => u.Veiculos).WithOne(u => u.Usuario);
-            builder.HasMany(u => u.).WithOne(u => u.Proprietario);
             builder.HasMany(u => u.Eventos).WithOne(u => u.Usuario);
             builder.HasMany(u => u.Pagamentos).WithOne(u => u.Usuario);
             builder.HasMany(u => u.Servicos).WithOne(u => u.Usuario);
